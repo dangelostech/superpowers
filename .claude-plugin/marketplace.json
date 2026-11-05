@@ -1,20 +1,11 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
-  "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
-  },
+  "name": "dangelos-marketplace",
+  "owner": { "name": "Dangelos Tech" },
   "plugins": [
     {
-      "name": "superpowers",
-      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "7.0.2",
+      "name": "dangelos-superpowers",
       "source": "./",
-      "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
-      }
+      "description": "Superpowers customizado da Dangelos"
     }
   ]
 }
